@@ -1,0 +1,23 @@
+.card {
+    width: 18rem;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.btn.btn-primary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: blue;
+    color: #FFFFFF;
+}
